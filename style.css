@@ -1,0 +1,81 @@
+@import url("https://fonts.google.com/specimen/Montserrat");
+@import url("https://fonts.google.com/specimen/Fraunces") ;
+
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+.family{
+    border-top-left-radius: 10px;
+    display: flex;
+    padding: 200px;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    
+}
+
+
+button{
+    background-color:hsl(158, 36%, 37%);
+    border-radius: 5px;
+    margin-left: 20px;
+    display: flex;
+    align-items:center;
+    padding-left:20px;
+    padding-right:20px;
+    
+    
+
+
+    
+   
+}
+button .text{
+    color:hsl(0, 0%, 100%) ;
+
+}
+
+p{
+    color: hsl(228, 12%, 48%)
+}
+
+h4{
+    color: hsl(228, 12%, 48%)
+}
+
+.amount .amount2{
+    color: hsl(228, 12%, 48%);
+    padding-left: 10px;
+    text-decoration: line-through;
+}
+
+h1{
+    color:hsl(158, 36%, 37%) ;
+}
+.body{
+    background-color: hsl(30, 38%, 92%) ;
+    padding: 20px;
+    font-size:14px;
+    height: 350px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+}
+div .amount{
+    display:flex;
+    align-items: center;
+
+    
+
+}
+.photo img{
+    position: relative;
+    height: 390px;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+}
+i{
+    padding-right:10px;
+    color:hsl(0, 0%, 100%) ;
+
+}
